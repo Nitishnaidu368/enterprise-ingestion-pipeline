@@ -1,0 +1,11 @@
+.venv/
+.state/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Download these fixtures locally instead of redistributing them.
+data/pdf/w3c-dummy.pdf
+data/tables/countries.csv
+data/text/rfc8259.txt
+

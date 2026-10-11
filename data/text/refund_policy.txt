@@ -1,0 +1,5 @@
+Enterprise Refund Policy
+
+Customers may request a refund within 30 days of a completed payment. The support team must verify the payment identifier, transaction amount, and customer account before approving the request.
+
+Refunds for failed or pending payments require manual review. Approved refunds are returned to the original payment method and may take five to ten business days to appear.

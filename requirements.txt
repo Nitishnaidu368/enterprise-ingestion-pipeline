@@ -1,0 +1,4 @@
+pypdf
+pandas
+sentence-transformers
+chromadb
